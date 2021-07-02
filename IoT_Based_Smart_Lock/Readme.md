@@ -47,14 +47,23 @@ Part  V       -  Demo                                           ▶️  [https:/
 ||=========================================================================||  
 🔗 *Important Links* 🔗  
 ⏩  Getting Started with Particle  -  https://docs.particle.io/quickstart/photon/  
+
 ⏩  Claiming Particle Device  -  https://docs.particle.io/workshops/photon-maker-kit-workshop/ch1/  
+
 ⏩  Download VS Code Editor  -  https://code.visualstudio.com/download  
+
 ⏩  Download Particle CLI  -  https://docs.particle.io/tutorials/developer-tools/cli/  
+
 ⏩  About Nextion Display and Download IDE -  https://nextion.tech/  
+
 ⏩  About Particle Webhooks - https://docs.particle.io/tutorials/device-cloud/webhooks/  
+
 ⏩  Particle Telegram Bot  - https://community.particle.io/t/particle-telegram-bot/59482  
+
 ⏩  Particle GoogleSheet Webhook Integration -  https://docs.particle.io/datasheets/app-notes/an011-publish-to-google-sheets/  
+
 ⏩  Nextion Display Library - https://docs.particle.io/cards/libraries/i/ITEADLIB_Nextion/  
+
 ⏩  MFRC522 RFID Library - https://docs.particle.io/cards/libraries/m/MFRC522/  
 <br  />
 How to Create Telegram Bot ?    ⏩  https://youtu.be/bmerNhPUTBg?t=498  
